@@ -19,7 +19,7 @@ class Welcome extends CI_Controller {
 	 */
 	public function index()
 	{
-		$this->load->view('welcome_message');
+		load_layout('welcome_message', array('title' => 'Welcome Codeigniter'));
 	}
 }
 
