@@ -352,6 +352,10 @@
 			    <span class="help-inline">Woohoo!</span>
 			  </div>
 			</div>
+			<div class="form-actions">
+			  <button type="submit" class="btn btn-primary">Save changes</button>
+			  <button type="button" class="btn">Cancel</button>
+			</div>
 		</form>
 	</div>
 </div>
