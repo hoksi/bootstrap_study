@@ -30,5 +30,6 @@
 			<?php $this->load->view('sys_layout/hero/footer')?>
 	    </div>		
 		<script src="<?=site_url('assets/bootstrap-2.3.2/js/bootstrap.min.js')?>"></script>
+		<script src="<?=site_url('assets/holder/holder.js')?>"></script>
 	</body>
 </html>
