@@ -13,7 +13,7 @@
 	<div class="span12">
 		<div class="media">
 		  <a class="pull-left" href="#">
-		    <img class="media-object" data-src="holder.js/64x64">
+		    <img class="media-object" data-src="holder.js/64x64/text:500*500 \n 이미지 \n 입력">
 		  </a>
 		  <div class="media-body">
 		    <h4 class="media-heading">Media heading</h4>
