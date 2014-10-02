@@ -18,10 +18,6 @@
 	</div>
 	<div class="span6">
 		<button type="button" class="btn btn-primary" data-toggle="button">Single Toggle</button>
-		<label for="checkbox1">
-			<input type="checkbox" name="secret" id="checkbox1" class="checkbox">
-			<button class="btn btn-danger" data-toggle="buttons-checkbox">Secret</button>
-		</label>
 	</div>
 	<div class="span6">
 		<div class="btn-group" data-toggle="buttons-checkbox">
@@ -36,5 +32,11 @@
 		  <button type="button" class="btn btn-primary">Middle</button>
 		  <button type="button" class="btn btn-primary">Right</button>
 		</div>
+	</div>
+	<div class="span6">
+		<label for="checkbox1">
+			<input type="checkbox" name="secret" id="checkbox1" class="checkbox">
+			<button class="btn btn-danger" data-toggle="buttons-checkbox">Secret</button>
+		</label>
 	</div>
 </div>
